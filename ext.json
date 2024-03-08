@@ -1,0 +1,19 @@
+{
+  "name": "Everlight (latest)",
+  "identifier": "krst.theme.evernote",
+  "version": "0.4",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "main": "dist/dist.css",
+  "showInGallery": true,
+  "description": "Everlight based on Evernote Light",
+  "dock_icon": {
+    "type": "circle",
+    "foreground_color": "#05a82e"
+  },
+  "url": "https://apps.laux.wtf/sn-theme-evernote/dist/dist.css",
+  "download_url": "https://apps.laux.wtf/sn-theme-evernote/sn-theme-evernote.zip",
+  "marketing_url": "https://github.com/marcolaux/sn-theme-evernote",
+  "latest_url": "https://apps.laux.wtf/sn-theme-evernote/ext.json",
+  "thumbnail": "https://apps.laux.wtf/sn-theme-evernote/screenshot.jpg"
+}
