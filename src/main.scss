@@ -35,7 +35,8 @@
   --code-back: #f8f8f8;
   --text-highlight: rgba(255,219,39,.45);
 
-  --box-shadow-tags-list: 0 2px 6px 0 rgba(0, 0, 0, .04), 0 var(--border-radius-small) 2var(--border-radius-small) 0 rgba(33, 50, 166, .06);
+  --box-shadow-tags-list: 0 2px 6px 0 rgba(0,0,0,.04),0 4px 24px 0 rgba(33,50,166,.06);
+  
   --box-shadow-margin: 6px;
 
   --border-radius-small: 4px;
@@ -413,8 +414,8 @@ button.text-text.bg-normal-button {
 
 @media screen and (min-width: 768px) {
   body.focus-mode {
-    #editor-content {
-      // border-radius: 16px 16px 0 0;
+    #editor-column {
+      margin: var(--box-shadow-margin) var(--box-shadow-margin) var(--box-shadow-margin) var(--box-shadow-margin);
     }
   }
 
