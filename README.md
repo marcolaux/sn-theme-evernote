@@ -12,4 +12,4 @@ This Theme is also within the offical Standard Notes Community Plugins repo in t
 
 If you always want to use the latest version (I sometimes tend to adjust a few little things here and there), you can use my deployed version here:
 
-![Screenshot Standard Notes Theme Everlight](https://sn-theme-evernote-marcaux-74d18feffa5796c86a32b6d7f5e04f3889bf6.gitlab.io/screenshot.jpg) "Screenshot Standard Notes Theme Everlight")
+![Screenshot Standard Notes Theme Everlight](https://sn-theme-evernote-marcaux-74d18feffa5796c86a32b6d7f5e04f3889bf6.gitlab.io/screenshot.jpg)
